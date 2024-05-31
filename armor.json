@@ -1,0 +1,50 @@
+{
+    "armors": [
+      {
+        "name": "Steel Plate Armor",
+        "type": "Heavy",
+        "defense": 50,
+        "weight": 35,
+        "durability": 80,
+        "material": "Steel",
+        "description": "A sturdy set of steel plate armor offering excellent protection in battle."
+      },
+      {
+        "name": "Leather Armor",
+        "type": "Light",
+        "defense": 20,
+        "weight": 15,
+        "durability": 50,
+        "material": "Leather",
+        "description": "Lightweight leather armor providing moderate protection while allowing for high mobility."
+      },
+      {
+        "name": "Chainmail Armor",
+        "type": "Medium",
+        "defense": 35,
+        "weight": 25,
+        "durability": 70,
+        "material": "Iron",
+        "description": "Chainmail armor made from interlocking iron rings, offering balanced protection and flexibility."
+      },
+      {
+        "name": "Dragon Scale Armor",
+        "type": "Heavy",
+        "defense": 60,
+        "weight": 40,
+        "durability": 100,
+        "material": "Dragon Scale",
+        "description": "A rare and powerful armor made from dragon scales, providing exceptional protection and resistance."
+      },
+      {
+        "name": "Mage Robes",
+        "type": "Light",
+        "defense": 10,
+        "weight": 5,
+        "durability": 30,
+        "material": "Cloth",
+        "description": "Robes worn by mages, enchanted to offer high resistance to magical attacks."
+      }
+    ]
+  }
+  
