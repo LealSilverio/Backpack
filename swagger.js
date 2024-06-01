@@ -2,8 +2,8 @@ const swaggerAutogen = require('swagger-autogen')();
 
 const doc = {
   info: {
-    title: 'Temples API',
-    description: 'Team assignment'
+    title: 'Backpack',
+    description: 'An inventory of possible items for an RPG'
   },
   host: 'localhost:8080'
 };

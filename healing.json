@@ -1,0 +1,38 @@
+[{
+    "name": "Health Potion",
+    "type": "Potion",
+    "healingAmount": 50,
+    "weight": 0.5,
+    "description": "A basic potion that restores a small amount of health."
+    },{
+    "name": "Great Health Potion",
+    "type": "Potion",
+    "healingAmount": 150,
+    "weight": 0.7,
+    "description": "A powerful potion that restores a large amount of health."
+    },{
+    "name": "Herbal Remedy",
+    "type": "Herb",
+    "healingAmount": 30,
+    "weight": 0.2,
+    "description": "A natural remedy made from medicinal herbs."
+    },{
+    "name": "Elixir of Vitality",
+    "type": "Elixir",
+    "healingAmount": 200,
+    "weight": 1.0,
+    "description": "An elixir that not only heals but also boosts vitality temporarily."
+    },{
+    "name": "Magic Tonic",
+    "type": "Tonic",
+    "healingAmount": 100,
+    "weight": 0.6,
+    "description": "A tonic brewed with magical ingredients to restore health."
+    },{
+    "name": "Phoenix Gem",
+    "type": "Revival",
+    "healingAmount": 0,
+    "weight": 0.4,
+    "description": "A rare item that revives a fallen ally with full health."
+    }
+]

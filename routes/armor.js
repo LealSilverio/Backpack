@@ -1,12 +1,12 @@
 const express = require('express');
 const router = express.Router();
 
-const armorCon = require('../controllers/armor');
+const armorControl = require('../controllers/armor');
 
-router.get('/', armorCon.getAll);
-router.get('/:id', armorCon.getSingle);
-router.post('/', armorCon.createItem);
-router.put('/:id', armorCon.updateItem);
-router.delete('/:id', armorCon.deleteItem);
+router.get('/', armorControl.getAll);
+router.get('/:id', armorControl.getSingle);
+router.post('/', armorControl.createItem);
+router.put('/:id', armorControl.updateItem);
+router.delete('/:id', armorControl.deleteItem);
 
 module.exports = router;
